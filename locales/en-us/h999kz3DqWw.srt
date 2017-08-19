@@ -172,7 +172,7 @@ assume we know what numbers are. We can make
 
 44
 00:02:18,730 --> 00:02:22,350
-numbers any number of digits. There different rules to make
+numbers any number of digits. There are different rules to make
 
 45
 00:02:22,350 --> 00:02:24,160
